@@ -16,7 +16,7 @@ You can use power from the in-built printer PCB or the Raspberry Pi (RPI).
 - **RESET** -> GPIO 25
 - **DC** (marked as MISO on the mainboard) -> GPIO 24
 
-You can find images in the [ImagesMbWiring](ImagesMbWiring).
+You can find images in the [ImagesMbWiring](../ImagesMbWiring).
 
 For images and more details, check the [Hardware Setup](https://github.com/jokubasver/Anycubic-Kobra-Go-Neo-LCD-Driver?tab=readme-ov-file#hardware-setup).
 

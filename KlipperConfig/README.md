@@ -20,4 +20,4 @@ In order to properly calibrate the z-offset and bed leveling you need set the te
 
 You can also chose to use UART interface if you are fine with soldering two wires.
 
-Check `printer.cfg` and the wiring images in the [ImagesMbWiring](ImagesMbWiring).
+Check `printer.cfg` and the wiring images in the [ImagesMbWiring](../ImagesMbWiring).
