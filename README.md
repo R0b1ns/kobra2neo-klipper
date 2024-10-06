@@ -27,13 +27,13 @@ You can install the LCD firmware binary by simply copy it to `/lib/firmware/`:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/cheadrian/kobra2neo-klipperscreen
+    git clone https://github.com/cheadrian/kobra2neo-klipper
     ```
 
 2. Navigate to the firmware directory:
 
     ```bash
-    cd ~/kobra2neo-klipperscreen
+    cd ~/kobra2neo-klipper/KlipperScreen
     ```
 3. Copy the firmware binary to the system:
 
